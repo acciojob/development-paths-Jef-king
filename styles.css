@@ -2,6 +2,6 @@
 img{
 	height:300px;
 }
-ul>li::after{
+/* ul>li::after{
 	content:' development'
-}
+} */
